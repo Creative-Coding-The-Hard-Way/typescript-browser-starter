@@ -22,7 +22,7 @@
   "targets": {
     "default": {
       "distDir": "./output",
-      "publicUrl": "typescript-browser-starter/"
+      "publicUrl": "/typescript-browser-starter/"
     }
   },
   "browserlist": [
