@@ -16,6 +16,7 @@
     "prepare": "husky install",
     "ci": "npm run check && npm run build"
   },
+  "publicUrl": "typescript-browser-starter/",
   "source": [
     "src/index.html"
   ],
